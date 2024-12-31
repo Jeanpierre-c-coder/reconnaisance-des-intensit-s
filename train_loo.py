@@ -11,7 +11,7 @@ from time import time
 from random import shuffle
 # - Third-party
 from numpy import save
-import cv2 as cv
+# import cv2 as cv
 import matplotlib.pyplot as plt
 # - Local
 import utils.recog as rec

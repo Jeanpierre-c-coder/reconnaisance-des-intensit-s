@@ -11,7 +11,7 @@ from time import time
 from pickle import load
 # - Third-party
 import numpy as np
-import cv2 as cv
+# import cv2 as cv
 # - Local
 import utils.recog as rec
 import utils.robot as rob
