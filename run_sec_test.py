@@ -2,7 +2,7 @@
 """
 Run experiment with model learning to recognize different states of groups of
 facial traits
-By Sébastien Mick
+By Sébastien Mick rewrite by Jean Pierre KONDE MONK
 """
 # # IMPORTS
 # - Built-in
