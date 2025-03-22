@@ -2,7 +2,7 @@
 """
 Run experiment with model learning to recognize facial expressions of primary
 emotions (+ neutral face)
-By Sébastien Mick
+By Sébastien Mick rewrite by Jean Pierre KONDE MONK
 """
 # # IMPORTS
 # - Built-in
