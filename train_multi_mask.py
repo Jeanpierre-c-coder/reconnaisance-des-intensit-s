@@ -2,7 +2,7 @@
 """
 Offline training/testing with elementary expressions from combined datasets of
 several participants, and partial masking
-By Sébastien Mick
+Rewrite By Jean Pierre KONDE MONK
 """
 # # IMPORTS
 # - Built-in
