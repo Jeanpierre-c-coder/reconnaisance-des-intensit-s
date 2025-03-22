@@ -2,7 +2,7 @@
 """
 Offline training with elementary expressions then testing with mixed expressions
 from combined datasets of several participants
-By Sébastien Mick
+Rewrite By Jean Pierre KONDE MONK
 """
 # # IMPORTS
 # - Built-in
