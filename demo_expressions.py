@@ -2,7 +2,7 @@
 """
 Run a demonstration of various types of robot facial expressions employed during
 FER experiment
-By Sébastien Mick
+Rewrite By Jean Pierre KONDE MONK
 """
 # # IMPORTS
 # - Built-in
