@@ -2,7 +2,7 @@
 """
 Offline training/testing with elementary expressions from combined datasets of
 several participants, following a Leave-One-Out strategy
-By Sébastien Mick
+Rewrite By Jean Pierre KONDE MONK
 """
 # # IMPORTS
 # - Built-in
