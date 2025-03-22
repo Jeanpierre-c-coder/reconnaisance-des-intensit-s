@@ -2,7 +2,7 @@
 """
 Process saved confusion matrices to investigate recognition rates obtained in
 various conditions
-By Sébastien Mick
+By Sébastien Mick rewrite by Jean Pierre KONDE MONK
 """
 # # IMPORTS
 # - Built-in
