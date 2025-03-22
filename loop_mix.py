@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Repeat offline testing with mixed expressions
-By Sébastien Mick
+By Sébastien Mick rewrite by Jean Pierre KONDE MONK
 """
 # # IMPORTS
 # - Built-in
