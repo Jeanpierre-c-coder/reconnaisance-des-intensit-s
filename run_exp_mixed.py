@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Capture images of human faces imitating mixed emotions produced by robotic head
-By Sébastien Mick
+By Sébastien Mick rewrite by Jean Pierre KONDE MONK
 """
 # # IMPORTS
 # - Built-in
