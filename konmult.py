@@ -2,7 +2,7 @@
 """
 Repeat offline testing with Leave-One-Out strategy
 Enhanced to scale the number of subjects dynamically
-By Sébastien Mick, improved by Assistant
+By Sébastien Mick, improved Rewrite By Jean Pierre KONDE MONK
 """
 
 # # IMPORTS
