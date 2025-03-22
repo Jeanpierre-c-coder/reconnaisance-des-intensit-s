@@ -2,7 +2,7 @@
 """
 Run experiment with model learning to recognize activity levels of groups of
 facial traits from elementary expressions
-By Sébastien Mick
+By Sébastien Mick rewrite by Jean Pierre KONDE MONK
 """
 # # IMPORTS
 # - Built-in
