@@ -2,7 +2,7 @@
 """
 Offline training/testing with primary emotions from the dataset of a single
 participant
-By Sébastien Mick
+By Sébastien Mick rewrite by Jean Pierre KONDE MONK
 """
 # # IMPORTS
 # - Built-in
