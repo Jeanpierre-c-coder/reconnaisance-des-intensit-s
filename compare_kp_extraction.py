@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Compare various keypoint extraction methods offline
-By Sébastien Mick
+Rewrite By Jean Pierre KONDE MONK
 """
 # # IMPORTS
 # - Built-in
